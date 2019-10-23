@@ -1,3 +1,7 @@
+> Replacement for https://github.com/baiyubin/aliyun-sts-go-sdk
+> 
+> At least until https://github.com/baiyubin/aliyun-sts-go-sdk/pull/3 is merged.
+
 # Alibaba Cloud STS SDK for Go
 
 [![GitHub Version](https://badge.fury.io/gh/baiyubin%2Faliyun-sts-go-sdk.svg)](https://badge.fury.io/gh/baiyubin%2Faliyun-sts-go-sdk)
