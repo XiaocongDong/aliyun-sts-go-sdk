@@ -1,4 +1,4 @@
-module github.com/baiyubin/aliyun-sts-go-sdk
+module github.com/XiaocongDong/aliyun-sts-go-sdk
 
 go 1.12
 
